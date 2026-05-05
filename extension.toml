@@ -1,4 +1,3 @@
-[package]
 id = "netcoredbg"
 name = "NetCoreDbg"
 version = "0.1.0"
